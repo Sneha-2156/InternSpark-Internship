@@ -44,11 +44,11 @@ Understand how backend layers work together Work with databases in a structured 
 
 ## API Endpoints
 Employee APIs
-### POST /employees → Create employee
-### GET /employees → Get all employees
-### GET /employees/{id} → Get employee by ID
-### PUT /employees/{id} → Update employee
-### DELETE /employees/{id} → Delete employee
+ POST /employees → Create employee
+ GET /employees → Get all employees
+ GET /employees/{id} → Get employee by ID
+ PUT /employees/{id} → Update employee
+ DELETE /employees/{id} → Delete employee
 
 ## Testing
  Tested using Postman
